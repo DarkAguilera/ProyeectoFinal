@@ -1,0 +1,2 @@
+Cocktail Shaker Sort (CocktailShakerSort.py)
+Consiste en una variante bidireccional del Bubble Sort que ordena hacia adelante y hacia atrás en cada pasada, reduciendo el problema de elementos pequeños al final.
